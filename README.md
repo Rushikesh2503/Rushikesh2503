@@ -3,7 +3,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Rushikesh Bambadkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikesh2503&label=Profile%20views&color=0e75b6&style=flat" alt="rushikesh2503" /> </p>
 
@@ -33,15 +33,14 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikesh2503&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="rushikesh2503" /></p>
-
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikesh2503&show_icons=true&locale=en&theme=highcontrast" alt="rushikesh2503" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikesh2503&&theme=highcontrast" alt="rushikesh2503" /></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikesh2503&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="rushikesh2503" /></p>
 
+<br>
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
  </p>
-
