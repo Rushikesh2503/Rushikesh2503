@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **ReactJS & JavaScript**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **rushikeshbambadkar7@gmail.com**
 
