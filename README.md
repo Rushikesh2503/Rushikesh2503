@@ -14,7 +14,9 @@
 
 - 📫 How to reach me **rushikeshbambadkar7@gmail.com**
 
-- 👨‍💻 All of my projects are available at <a href="https://rushikeshbambadkar-rushikesh2503.vercel.app/" target="blank">rushikeshBambadkar</a>
+- 👨‍💻 All of my projects are available at <a href="https://rushikeshbambadkar-rushikesh2503.vercel.app/projects" target="blank">rushikeshBambadkar/projects</a>
+- 🙋‍♂️ Visit My Portfolio
+<a href="https://rushikeshbambadkar-rushikesh2503.vercel.app" target="blank">www.rushikeshbambadkar.com</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
