@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikesh2503&label=Profile%20views&color=0e75b6&style=flat" alt="rushikesh2503" /> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Java & Springboot**
 
 - 💬 Ask me about **JavaScript**
 
