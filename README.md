@@ -23,6 +23,7 @@
 <a href="https://twitter.com/rbambadkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rbambadkar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rushikesh-bambadkar-1a74031a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-bambadkar" height="30" width="40" /></a>
   <a href="https://codepen.io/rushikesh25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rushikesh25" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/rushikeshbambad1" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rushiB" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 
