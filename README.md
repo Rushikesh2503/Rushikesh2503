@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java & Springboot**
 
-- 💬 Ask me about **JavaScript & MERN**
+- 💬 Ask me about **JavaScript &  MERN**
 
 - 📫 How to reach me **rushikeshbambadkar7@gmail.com**
 
