@@ -40,6 +40,8 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikesh2503&&theme=highcontrast" alt="rushikesh2503" /></p>
 <br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshB7&&theme=highcontrast" alt="rushikesh2503" /></p>
+<br>
 
 <br>
  <p align="center">
