@@ -18,7 +18,7 @@
 - 🙋‍♂️ Visit My Portfolio
 <a href="https://rushikeshbambadkar-rushikesh2503.vercel.app" target="blank">www.rushikeshbambadkar.com</a>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me :</h3>
 <p align="center">
 <a href="https://twitter.com/rbambadkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rbambadkar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rushikesh-bambadkar-1a74031a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-bambadkar" height="30" width="40" /></a>
