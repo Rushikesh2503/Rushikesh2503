@@ -3,7 +3,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Rushikesh Bambadkar</h1>
-<h3 align="center">A Passionate Full Stack Developer From India</h3>
+<h3 align="center">Currently Working As Full Stack Developer In Salesken.ai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikesh2503&label=Profile%20views&color=0e75b6&style=flat" alt="rushikesh2503" /> </p>
 
