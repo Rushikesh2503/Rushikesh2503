@@ -36,11 +36,6 @@
   </p>
 <br>
 
-
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikesh2503&show_icons=true&locale=en&theme=highcontrast" alt="rushikesh2503" /></p>
-<br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikesh2503&&theme=highcontrast" alt="rushikesh2503" /></p>
 <br>
 <p align="center">Work Account</p>
