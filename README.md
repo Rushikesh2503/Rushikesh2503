@@ -36,10 +36,10 @@
   </p>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikesh2503&&theme=highcontrast" alt="rushikesh2503" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=rushikesh2503&&theme=highcontrast" alt="rushikesh2503" /></p>
 <br>
 <p align="center">Work Account</p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshB7&&theme=highcontrast" alt="rushikesh2503" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=RushikeshB7&&theme=highcontrast" alt="rushikeshB7" /></p>
 <br>
 
 <br>
